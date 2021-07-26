@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Love
+http://live.antenazagreb.hr:8007/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Rock
+http://live.antenazagreb.hr:8019/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena TOP 40
+http://live.antenazagreb.hr:8011/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Zadar
+http://live.antenazadar.hr:9000/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Zagreb
+http://live.antenazagreb.hr:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - CRO Hits
+http://cmr-hosting.com:8060/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Dance
+http://cmr-hosting.com:8020/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Folk
+http://cmr-hosting.com:8010/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Love Songs
+http://cmr-hosting.com:8040/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Tambura
+http://cmr-hosting.com:8070/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HKR
+http://stream.hkr.hr:8000/hkr.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT HR 1
+http://21273.live.streamtheworld.com/PROGRAM3AAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT HR 2
+https://21223.live.streamtheworld.com/PROGRAM2AAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT HR 3
+http://20853.live.streamtheworld.com:3690/HR_TALK_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Dubrovnik
+https://21253.live.streamtheworld.com/DUBROVNIK_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=0859eef4-cdc3-4e9c-bfa9-b6fc3a0ba7b8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Knin
+https://21293.live.streamtheworld.com/KNIN_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=2ff460c7-6ef6-433f-ccdf-2753dd2d2aad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Osijek
+https://20873.live.streamtheworld.com/OSIJEKAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Pula
+https://21223.live.streamtheworld.com/PULAAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Rijeka
+https://20863.live.streamtheworld.com/RIJEKA_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=8ac72e05-23d0-42e4-c905-29e6f200b381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Sljeme
+https://21223.live.streamtheworld.com/SLJEMEAAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Split
+https://stream90.digitalsoundshop.com:8443/split
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Zadar
+https://22343.live.streamtheworld.com/ZADAR_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=4d9d7e72-10fa-4bc8-b357-3e919021cfcb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Hrvatski Radio Otocac
+http://s8.iqstreaming.com:8024/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Hrvatski Radio Vukovar
+http://live.hrv.hr:8000/hrv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Laganini Osijek
+http://194.145.208.251:8012/start/lfmos
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Laganini Slavonski Brod
+http://194.145.208.251:8010/start/lfmsb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Laganini Zagreb
+http://194.145.208.251:8000/start/lfmzg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",mojRADIO
+http://c5.hostingcentar.com:8194/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni
+http://live.narodni.hr:8063/live.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - Ljubav je u zraku
+http://live.narodni.hr:8181/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - ma samo veselo
+http://live.narodni.hr:8051/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - Ne pitaj. samo sviraj
+http://live.narodni.hr:8175/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - Totalno opusteno
+http://live.narodni.hr:8039/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni
+http://stream.otvoreni.hr/otvoreni
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni CHILL
+https://stream.otvoreni.hr/chill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni FITNESS
+https://stream.otvoreni.hr/fitness
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni HOT
+https://stream.otvoreni.hr/hot
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni LOVE
+https://stream.otvoreni.hr/love
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Pomorski Radio Bakar
+http://85.17.172.242:8010/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio 101
+http://live.radio101.hr:9531/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Banovina
+http://stream1.radio-banovina.hr:9998/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Banovina Turbo
+http://stream1.radio-banovina.hr:8022/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Borovo
+http://s3.iqstreaming.com:7020/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija
+http://shoutcast.pondi.hr:8000/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Fjaka
+http://c5.hostingcentar.com:8203/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Furesta
+http://c5.hostingcentar.com:8215/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Hajducke
+http://c5.hostingcentar.com:8221/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Oliver
+http://c5.hostingcentar.com:8275/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Rokija
+http://c5.hostingcentar.com:8209/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dunav
+http://cp4.shoutcheap.com:8111/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Istra
+http://sc2.streamingpulse.com:7117/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Kaj
+http://s3.iqstreaming.com:7051/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Marija
+http://dreamsiteradiocp4.com:8080/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Nova Gradiska
+http://comet.shoutca.st:8050/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Otok Krk
+http://streamer2.streamsink.com:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Posavina
+http://cmr-hosting.com:8500/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Rab
+http://streamer2.streamsink.com:8000/Rab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Sibenik
+http://proxima.shoutca.st:8215/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Slavonija
+http://s8.iqstreaming.com:8026/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Slavonski Radio
+https://ec2s.crolive.com.hr:8035/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Ultra Split FM
+http://c5.hostingcentar.com:8061/stream
