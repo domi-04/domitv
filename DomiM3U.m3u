@@ -1,123 +1,125 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Love
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/antena.png" group-title="",Antena Love
 http://live.antenazagreb.hr:8007/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Rock
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/antena.png" group-title="",Antena Rock
 http://live.antenazagreb.hr:8019/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena TOP 40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/antena.png" group-title="",Antena TOP 40
 http://live.antenazagreb.hr:8011/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Zadar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/antena-zadar.png" group-title="",Antena Zadar
 http://live.antenazadar.hr:9000/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Antena Zagreb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/antena.png" group-title="",Antena Zagreb
 http://live.antenazagreb.hr:8000/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - CRO Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/cmr.png" group-title="",Club Music Radio - CRO Hits
 http://cmr-hosting.com:8060/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Dance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/cmr.png" group-title="",Club Music Radio - Dance
 http://cmr-hosting.com:8020/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Folk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/cmr.png" group-title="",Club Music Radio - Folk
 http://cmr-hosting.com:8010/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Love Songs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/cmr.png" group-title="",Club Music Radio - Love Songs
 http://cmr-hosting.com:8040/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Club Music Radio - Tambura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/cmr.png" group-title="",Club Music Radio - Tambura
 http://cmr-hosting.com:8070/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HKR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/domoljubni-radio.png" group-title="",Domoljubne Pjesme
+http://radiostream.optiklink.com:8200/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hkr.png" group-title="",HKR
 http://stream.hkr.hr:8000/hkr.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT HR 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hr1.png" group-title="",HRT HR 1
 http://21273.live.streamtheworld.com/PROGRAM3AAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT HR 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hr2.png" group-title="",HRT HR 2
 https://21223.live.streamtheworld.com/PROGRAM2AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT HR 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hr3.png" group-title="",HRT HR 3
 http://20853.live.streamtheworld.com:3690/HR_TALK_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Dubrovnik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-dubrovnik.png" group-title="",HRT Radio Dubrovnik
 https://21253.live.streamtheworld.com/DUBROVNIK_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=0859eef4-cdc3-4e9c-bfa9-b6fc3a0ba7b8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Knin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-knin.png" group-title="",HRT Radio Knin
 https://21293.live.streamtheworld.com/KNIN_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=2ff460c7-6ef6-433f-ccdf-2753dd2d2aad
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Osijek
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-osijek.png" group-title="",HRT Radio Osijek
 https://20873.live.streamtheworld.com/OSIJEKAAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Pula
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-pula.png" group-title="",HRT Radio Pula
 https://21223.live.streamtheworld.com/PULAAAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Rijeka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-rijeka.png" group-title="",HRT Radio Rijeka
 https://20863.live.streamtheworld.com/RIJEKA_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=8ac72e05-23d0-42e4-c905-29e6f200b381
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Sljeme
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-sljeme.png" group-title="",HRT Radio Sljeme
 https://21223.live.streamtheworld.com/SLJEMEAAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Split
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-split.png" group-title="",HRT Radio Split
 https://stream90.digitalsoundshop.com:8443/split
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",HRT Radio Zadar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrt-radio-zadar.png" group-title="",HRT Radio Zadar
 https://22343.live.streamtheworld.com/ZADAR_ADP.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=4d9d7e72-10fa-4bc8-b357-3e919021cfcb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Hrvatski Radio Otocac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrvatski-radio-otocac.png" group-title="",Hrvatski Radio Otocac
 http://s8.iqstreaming.com:8024/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Hrvatski Radio Vukovar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/hrvatski-radio-vukovar.png" group-title="",Hrvatski Radio Vukovar
 http://live.hrv.hr:8000/hrv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Laganini Osijek
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/laganini.png" group-title="",Laganini Osijek
 http://194.145.208.251:8012/start/lfmos
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Laganini Slavonski Brod
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/laganini.png" group-title="",Laganini Slavonski Brod
 http://194.145.208.251:8010/start/lfmsb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Laganini Zagreb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/laganini.png" group-title="",Laganini Zagreb
 http://194.145.208.251:8000/start/lfmzg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",mojRADIO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/mojRadio.png" group-title="",mojRADIO
 http://c5.hostingcentar.com:8194/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/narodni.png" group-title="",Narodni
 http://live.narodni.hr:8063/live.ogg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - Ljubav je u zraku
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/narodni.png" group-title="",Narodni - Ljubav je u zraku
 http://live.narodni.hr:8181/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - ma samo veselo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/narodni.png" group-title="",Narodni - ma samo veselo
 http://live.narodni.hr:8051/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - Ne pitaj. samo sviraj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/narodni.png" group-title="",Narodni - Ne pitaj. samo sviraj
 http://live.narodni.hr:8175/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Narodni - Totalno opusteno
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/narodni.png" group-title="",Narodni - Totalno opusteno
 http://live.narodni.hr:8039/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/otovrenigif.gif" group-title="",Otvoreni
 http://stream.otvoreni.hr/otvoreni
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni CHILL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/otovrenigif.gif" group-title="",Otvoreni CHILL
 https://stream.otvoreni.hr/chill
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni FITNESS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/otovrenigif.gif" group-title="",Otvoreni FITNESS
 https://stream.otvoreni.hr/fitness
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni HOT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/otovrenigif.gif" group-title="",Otvoreni HOT
 https://stream.otvoreni.hr/hot
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Otvoreni LOVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/otovrenigif.gif" group-title="",Otvoreni LOVE
 https://stream.otvoreni.hr/love
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Pomorski Radio Bakar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/pomorski-radio-bakar.png" group-title="",Pomorski Radio Bakar
 http://85.17.172.242:8010/live.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio 101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-101.png" group-title="",Radio 101
 http://live.radio101.hr:9531/stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Banovina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-banovina.png" group-title="",Radio Banovina
 http://stream1.radio-banovina.hr:9998/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Banovina Turbo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-banovina-turbo.png" group-title="",Radio Banovina Turbo
 http://stream1.radio-banovina.hr:8022/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Borovo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-borovo.png" group-title="",Radio Borovo
 http://s3.iqstreaming.com:7020/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-dalmacija.png" group-title="",Radio Dalmacija
 http://shoutcast.pondi.hr:8000/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Fjaka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-dalmacija.png" group-title="",Radio Dalmacija - Fjaka
 http://c5.hostingcentar.com:8203/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Furesta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-dalmacija.png" group-title="",Radio Dalmacija - Furesta
 http://c5.hostingcentar.com:8215/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Hajducke
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-dalmacija.png" group-title="",Radio Dalmacija - Hajducke
 http://c5.hostingcentar.com:8221/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Oliver
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-dalmacija.png" group-title="",Radio Dalmacija - Oliver
 http://c5.hostingcentar.com:8275/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dalmacija - Rokija
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-dalmacija.png" group-title="",Radio Dalmacija - Rokija
 http://c5.hostingcentar.com:8209/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Dunav
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-dunav.png" group-title="",Radio Dunav
 http://cp4.shoutcheap.com:8111/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Istra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-istra.png" group-title="",Radio Istra
 http://sc2.streamingpulse.com:7117/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Kaj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-kaj.png" group-title="",Radio Kaj
 http://s3.iqstreaming.com:7051/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Marija
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-marija.png" group-title="",Radio Marija
 http://dreamsiteradiocp4.com:8080/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Nova Gradiska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-nova-gradiska.png" group-title="",Radio Nova Gradiska
 http://comet.shoutca.st:8050/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Otok Krk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-krk.png" group-title="",Radio Otok Krk
 http://streamer2.streamsink.com:8000/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Posavina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-posavina.png" group-title="",Radio Posavina
 http://cmr-hosting.com:8500/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Rab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-rab.png" group-title="",Radio Rab
 http://streamer2.streamsink.com:8000/Rab
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Sibenik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-sibenik.png" group-title="",Radio Sibenik
 http://proxima.shoutca.st:8215/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Radio Slavonija
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/radio-slavonija.png" group-title="",Radio Slavonija
 http://s8.iqstreaming.com:8026/;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Slavonski Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/slavonski-radio.png" group-title="",Slavonski Radio
 https://ec2s.crolive.com.hr:8035/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",Ultra Split FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/domi-04/domitv/main/logos/ultra-split-fm.png" group-title="",Ultra Split FM
 http://c5.hostingcentar.com:8061/stream
